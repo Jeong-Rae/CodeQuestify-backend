@@ -1,0 +1,3 @@
+[submodule "CodeQuestify-frontend"]
+	path = CodeQuestify-frontend
+	url = https://github.com/Jeong-Rae/CodeQuestify-frontend
